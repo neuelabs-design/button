@@ -1,0 +1,66 @@
+{
+  "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+  "pagesAndArtboards": {
+    "52F98EBE-FCC8-48D6-8D56-99AC7BAB8F86": {
+      "name": "Page 1",
+      "artboards": {
+        "2096D9A0-ACB5-423E-9FBC-AE6974519242": {
+          "name": "button"
+        }
+      }
+    },
+    "204F506B-31BC-4F53-8847-10800DEE6B51": {
+      "name": "Symbols",
+      "artboards": {
+        "94BCDA07-34A3-43FB-9EC8-A1E9644CDA95": {
+          "name": "ui \/ button \/ primary \/ small"
+        },
+        "2A5A11E3-5656-49FF-8D9B-429E87FCAB0D": {
+          "name": "ui \/ button \/ primary \/ hover"
+        },
+        "54AC79D7-E6C1-4AEA-A11A-89F56E8CBDD3": {
+          "name": "ui \/ button \/ disabled"
+        },
+        "7CEE7EF2-BCEA-4F2C-A239-9B7BDBA7A1E2": {
+          "name": "ui \/ button \/ primary \/ large"
+        },
+        "25BDB5F1-A029-408F-88E6-EB17DB79B930": {
+          "name": "ui \/ button \/ secondary \/ active"
+        },
+        "9F173975-DDDB-4122-A26E-8DA9F025D4C0": {
+          "name": "ui \/ button \/ secondary \/ hover"
+        },
+        "C9E3E12C-9048-41B3-ACAB-31FC382DBC4E": {
+          "name": "ui \/ button \/ secondary \/ default"
+        },
+        "46284C1C-B6D1-4E35-BCBF-B91F0CFCD6BA": {
+          "name": "ui \/ button \/ primary \/ default"
+        },
+        "E52E7392-E1ED-46F8-AB82-6FBE299FCD55": {
+          "name": "ui \/ button \/ primary \/ active"
+        },
+        "A7D6C063-062F-407F-BAD1-2EC1F62B9E59": {
+          "name": "ui \/ button \/ link \/ default"
+        }
+      }
+    }
+  },
+  "version": 103,
+  "fonts": ["AvenirNext-Bold", "AvenirNext-Medium", "AvenirNext-DemiBold"],
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+    "appVersion": "50.2",
+    "build": 55047,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 99,
+    "version": 103,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": ["NONAPPSTORE.55047"],
+  "appVersion": "50.2",
+  "build": 55047
+}
