@@ -1,7 +1,7 @@
 {
   "name": "button",
   "version": "0.0.0",
-  "description": "neuelabs button component ",
+  "description": "neuelabs button component",
   "main": "index.js",
   "repository": "https://github.com/neuelabs-design/button.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
