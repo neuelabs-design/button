@@ -1,6 +1,6 @@
 {
   "name": "button",
-  "version": "0.0.0-canary.0",
+  "version": "0.0.0-canary.1",
   "description": "neuelabs button component",
   "main": "index.js",
   "repository": "https://github.com/neuelabs-design/button.git",
